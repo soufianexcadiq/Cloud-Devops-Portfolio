@@ -1,0 +1,2138 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R 53 0 R 55 0 R 57 0 R 59 0 R] /Count 27 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 1425 >>
+stream
+0.055 0.160 0.135 rg
+0.00 0.00 595.28 841.89 re f
+0.430 0.870 0.670 rg
+0.00 825.89 595.28 16.00 re f
+BT 0.430 0.870 0.670 rg /F2 10.00 Tf 1 0 0 1 48.00 690.00 Tm (AWS CLOUD + DEVOPS) Tj ET
+BT 1.000 1.000 1.000 rg /F2 39.00 Tf 1 0 0 1 48.00 625.00 Tm (PORTFOLIO) Tj ET
+BT 1.000 1.000 1.000 rg /F2 39.00 Tf 1 0 0 1 48.00 571.00 Tm (ROADMAP) Tj ET
+0.430 0.870 0.670 RG 4.00 w 48.00 535.00 m 178.00 535.00 l S
+BT 1.000 1.000 1.000 rg /F1 15.00 Tf 1 0 0 1 48.00 500.00 Tm (Ten progressive, production-style projects) Tj ET
+BT 1.000 1.000 1.000 rg /F1 15.00 Tf 1 0 0 1 48.00 474.00 Tm (from first pipeline to enterprise platform) Tj ET
+0.075 0.220 0.180 rg
+48.00 300.00 499.28 104.00 re f
+BT 0.430 0.870 0.670 rg /F2 7.50 Tf 1 0 0 1 68.00 374.00 Tm (MISSION) Tj ET
+BT 1.000 1.000 1.000 rg /F1 11.00 Tf 1 0 0 1 68.00 346.00 Tm (Build evidence that you can design, deploy, observe, secure,) Tj ET
+BT 1.000 1.000 1.000 rg /F1 11.00 Tf 1 0 0 1 68.00 327.00 Tm (recover and operate AWS platforms - not only create resources.) Tj ET
+BT 1.000 1.000 1.000 rg /F2 10.00 Tf 1 0 0 1 48.00 116.00 Tm (Prepared for Soufiane) Tj ET
+BT 0.660 0.780 0.730 rg /F1 8.50 Tf 1 0 0 1 48.00 94.00 Tm (Roadmap version: 5 July 2026) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (1) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 10 0 R >>
+endobj
+10 0 obj
+<< /Length 4375 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (ROADMAP OVERVIEW) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (NAVIGATION) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (Contents) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 728.00 m 120.00 728.00 l S
+BT 0.340 0.430 0.400 rg /F1 9.40 Tf 1 0 0 1 48.00 710.00 Tm (The project numbers preserve the original mission. The recommended execution sequence introduces baseline) Tj ET
+BT 0.340 0.430 0.400 rg /F1 9.40 Tf 1 0 0 1 48.00 696.09 Tm (monitoring before progressive deployment and evolves one platform rather than creating disconnected demos.) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.60 Tf 1 0 0 1 48.00 674.18 Tm (How to use this roadmap) Tj ET
+0.790 0.860 0.830 RG 0.50 w 333.00 676.18 m 521.28 676.18 l S
+BT 0.130 0.530 0.360 rg /F2 8.60 Tf 1 0 0 1 532.28 674.18 Tm (2) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.60 Tf 1 0 0 1 48.00 652.18 Tm (Portfolio definition of done) Tj ET
+0.790 0.860 0.830 RG 0.50 w 333.00 654.18 m 521.28 654.18 l S
+BT 0.130 0.530 0.360 rg /F2 8.60 Tf 1 0 0 1 532.28 652.18 Tm (4) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.60 Tf 1 0 0 1 48.00 630.18 Tm (01. Complete CI/CD with Jenkins, ECR, EC2 and Fargate) Tj ET
+0.790 0.860 0.830 RG 0.50 w 333.00 632.18 m 521.28 632.18 l S
+BT 0.130 0.530 0.360 rg /F2 8.60 Tf 1 0 0 1 532.28 630.18 Tm (5) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.60 Tf 1 0 0 1 48.00 608.18 Tm (02. Production Infrastructure with Terraform) Tj ET
+0.790 0.860 0.830 RG 0.50 w 333.00 610.18 m 521.28 610.18 l S
+BT 0.130 0.530 0.360 rg /F2 8.60 Tf 1 0 0 1 532.28 608.18 Tm (7) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.60 Tf 1 0 0 1 48.00 586.18 Tm (03. Enterprise Blue/Green and Canary Deployment) Tj ET
+0.790 0.860 0.830 RG 0.50 w 333.00 588.18 m 521.28 588.18 l S
+BT 0.130 0.530 0.360 rg /F2 8.60 Tf 1 0 0 1 532.28 586.18 Tm (9) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.60 Tf 1 0 0 1 48.00 564.18 Tm (04. Monitoring and Observability Platform) Tj ET
+0.790 0.860 0.830 RG 0.50 w 333.00 566.18 m 521.28 566.18 l S
+BT 0.130 0.530 0.360 rg /F2 8.60 Tf 1 0 0 1 532.28 564.18 Tm (11) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.60 Tf 1 0 0 1 48.00 542.18 Tm (05. Automated Disaster Recovery and Recovery Testing) Tj ET
+0.790 0.860 0.830 RG 0.50 w 333.00 544.18 m 521.28 544.18 l S
+BT 0.130 0.530 0.360 rg /F2 8.60 Tf 1 0 0 1 532.28 542.18 Tm (13) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.60 Tf 1 0 0 1 48.00 520.18 Tm (06. Cloud Security Detection and Safe Remediation) Tj ET
+0.790 0.860 0.830 RG 0.50 w 333.00 522.18 m 521.28 522.18 l S
+BT 0.130 0.530 0.360 rg /F2 8.60 Tf 1 0 0 1 532.28 520.18 Tm (15) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.60 Tf 1 0 0 1 48.00 498.18 Tm (07. Event-Driven Serverless Automation) Tj ET
+0.790 0.860 0.830 RG 0.50 w 333.00 500.18 m 521.28 500.18 l S
+BT 0.130 0.530 0.360 rg /F2 8.60 Tf 1 0 0 1 532.28 498.18 Tm (17) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.60 Tf 1 0 0 1 48.00 476.18 Tm (08. Kubernetes Application Platform on Amazon EKS) Tj ET
+0.790 0.860 0.830 RG 0.50 w 333.00 478.18 m 521.28 478.18 l S
+BT 0.130 0.530 0.360 rg /F2 8.60 Tf 1 0 0 1 532.28 476.18 Tm (19) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.60 Tf 1 0 0 1 48.00 454.18 Tm (09. GitOps and Infrastructure Delivery) Tj ET
+0.790 0.860 0.830 RG 0.50 w 333.00 456.18 m 521.28 456.18 l S
+BT 0.130 0.530 0.360 rg /F2 8.60 Tf 1 0 0 1 532.28 454.18 Tm (21) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.60 Tf 1 0 0 1 48.00 432.18 Tm (10. Complete Enterprise Cloud Platform) Tj ET
+0.790 0.860 0.830 RG 0.50 w 333.00 434.18 m 521.28 434.18 l S
+BT 0.130 0.530 0.360 rg /F2 8.60 Tf 1 0 0 1 532.28 432.18 Tm (23) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.60 Tf 1 0 0 1 48.00 410.18 Tm (Mission playbook) Tj ET
+0.790 0.860 0.830 RG 0.50 w 333.00 412.18 m 521.28 412.18 l S
+BT 0.130 0.530 0.360 rg /F2 8.60 Tf 1 0 0 1 532.28 410.18 Tm (25) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.60 Tf 1 0 0 1 48.00 388.18 Tm (Reference baseline) Tj ET
+0.790 0.860 0.830 RG 0.50 w 333.00 390.18 m 521.28 390.18 l S
+BT 0.130 0.530 0.360 rg /F2 8.60 Tf 1 0 0 1 532.28 388.18 Tm (27) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (2) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 12 0 R >>
+endobj
+12 0 obj
+<< /Length 4837 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (ROADMAP OVERVIEW) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (OPERATING MODEL) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (How to use this roadmap) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 728.00 m 120.00 728.00 l S
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 644.40 499.28 65.60 re B
+0.130 0.530 0.360 rg
+48.00 644.40 4.00 65.60 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 64.00 692.00 Tm (CORE STRATEGY) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 676.00 Tm (Use one professional GitHub account, one repository per project and one portfolio index. Reuse WellSpring as) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 663.80 Tm (the workload so each project demonstrates a new operational capability rather than another unrelated) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 651.60 Tm (application.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 632.40 Tm (Recommended execution sequence) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 612.40 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 612.40 Tm (Project 1: direct EC2 deployment first, then an ECS Fargate rolling deployment.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 597.82 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 597.82 Tm (Project 2: codify the shared production foundation with Terraform.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 583.23 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 583.23 Tm (Project 4 baseline: create essential logs and alarms before automating progressive traffic shifting.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 568.65 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 568.65 Tm (Project 3: implement ECS-native blue/green or canary deployment with alarm rollback.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 554.06 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 554.06 Tm (Project 7: add event-driven, serverless engineering experience.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 539.48 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 539.48 Tm (Project 5: introduce a small stateful backend, then design and test disaster recovery.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 524.90 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 524.90 Tm (Project 6: centralize security detection and safe remediation.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 510.31 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 510.31 Tm (Project 8: build the EKS platform after demonstrating strong ECS fundamentals.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 495.73 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 495.73 Tm (Project 9: combine Terraform delivery with true pull-based Kubernetes GitOps.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 481.14 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 481.14 Tm (Project 10: integrate the proven components into the capstone platform.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 458.56 Tm (Modern design decisions) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 372.96 499.28 65.60 re B
+0.780 0.490 0.100 rg
+48.00 372.96 4.00 65.60 re f
+BT 0.780 0.490 0.100 rg /F2 7.20 Tf 1 0 0 1 64.00 420.56 Tm (ECS DEPLOYMENTS IN 2026) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 404.56 Tm (Prefer ECS-native blue/green, canary or linear deployment for a new design. CodeDeploy remains a useful) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 392.36 Tm (optional comparison lab, but it is no longer the default recommendation for greenfield ECS progressive) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 380.16 Tm (delivery.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 307.56 499.28 53.40 re B
+0.130 0.530 0.360 rg
+48.00 307.56 4.00 53.40 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 64.00 342.96 Tm (GITOPS TERMINOLOGY) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 326.96 Tm (GitHub Actions running Terraform is infrastructure CI/CD. True GitOps adds a pull-based reconciler such as) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 314.76 Tm (Argo CD or Flux that continuously aligns the Kubernetes cluster with Git.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (3) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 14 0 R >>
+endobj
+14 0 obj
+<< /Length 4916 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (ROADMAP OVERVIEW) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (QUALITY BAR) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (Portfolio definition of done) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 728.00 m 120.00 728.00 l S
+BT 0.340 0.430 0.400 rg /F1 10.00 Tf 1 0 0 1 48.00 710.00 Tm (A project is complete only when another engineer can understand it, reproduce it, observe it) Tj ET
+BT 0.340 0.430 0.400 rg /F1 10.00 Tf 1 0 0 1 48.00 695.20 Tm (failing and follow the documented recovery path.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 672.40 Tm (Required in every repository) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 652.40 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 652.40 Tm (README with problem statement, architecture, prerequisites, setup, verification and teardown.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 637.82 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 637.82 Tm (Architecture diagram showing system, network or trust boundaries and important traffic flows.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 623.23 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 623.23 Tm (Infrastructure as code with format, validation, lint and security checks.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 608.65 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 608.65 Tm (Pipeline as code and immutable artifact or release versioning.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 594.06 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 594.06 Tm (Least-privilege IAM, temporary credentials and explicit secret handling.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 579.48 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 579.48 Tm (Health checks, useful logs, metrics, alarms and a failure scenario.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 564.90 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 564.90 Tm (Rollback or recovery runbook that has been executed at least once.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 550.31 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 550.31 Tm (Cost considerations, tags and a reliable destroy or cleanup procedure.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 535.73 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 535.73 Tm (Sanitized screenshots, logs or a short demo proving the result.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 521.14 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 521.14 Tm (Lessons learned and the next improvement you would make in a real production environment.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 498.56 Tm (Repository naming) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 448.56 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 448.56 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 460.56 Tm (Profile) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 461.56 Tm (A public repository matching your GitHub username, containing a concise profile README.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 418.56 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 418.56 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 430.56 Tm (Portfolio index) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 431.56 Tm (cloud-devops-portfolio - links all projects and explains the progression.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 388.56 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 388.56 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 400.56 Tm (Project repos) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 401.56 Tm (01-jenkins-ec2-ecs-cicd through 10-enterprise-cloud-platform.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 352.56 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 352.56 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 370.56 Tm (Sensitive files) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 371.56 Tm (Never commit .pem keys, AWS credentials, Terraform state, secrets, production logs or) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 360.56 Tm (real personal data.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (4) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 16 0 R >>
+endobj
+16 0 obj
+<< /Length 6719 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 01 / CI/CD) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (PROJECT 01 - FOUNDATION TO INTERMEDIATE) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (Complete CI/CD with Jenkins, ECR, EC2) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 736.00 Tm (and Fargate) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 698.00 m 120.00 698.00 l S
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 680.00 Tm (Build a complete delivery pipeline for WellSpring. Begin with Docker running directly on one EC2) Tj ET
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 665.05 Tm (target, then evolve the same image and pipeline into an ECS Fargate rolling deployment.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 596.90 499.28 41.20 re B
+0.130 0.530 0.360 rg
+48.00 596.90 4.00 41.20 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 64.00 620.10 Tm (ARCHITECTURE FLOW) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 604.10 Tm (GitHub  ->  Jenkins on EC2  ->  Docker build  ->  Amazon ECR  ->  SSM  ->  Target EC2 / Fargate) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 548.90 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 548.90 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 566.90 Tm (Primary outcome) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 567.90 Tm (A source commit produces a tested, uniquely tagged container image and deploys it) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 556.90 Tm (automatically with a verified health check.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 512.90 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 512.90 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 530.90 Tm (Prerequisites) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 531.90 Tm (Git, GitHub, Docker basics, Linux commands, IAM fundamentals and one AWS account with) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 520.90 Tm (cost controls.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 482.90 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 482.90 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 494.90 Tm (Key services) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 495.90 Tm (EC2, ECR, IAM, Systems Manager, ECS, Fargate, CloudWatch Logs) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 452.90 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 452.90 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 464.90 Tm (Repository) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 465.90 Tm (01-jenkins-ec2-ecs-cicd) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 440.90 Tm (Implementation phases) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 420.90 Tm (Phase A - Container baseline) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 405.90 Tm (Validate the existing Dockerfile, build locally, run the Nginx health endpoint and document the image contract.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 388.03 Tm (Phase B - Jenkins pipeline) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 373.03 Tm (Create checkout, validate, build, scan, tag and push stages. Use an EC2 instance role instead of stored AWS access) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 360.15 Tm (keys.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 342.28 Tm (Phase C - Direct EC2 deployment) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 327.28 Tm (Use Systems Manager Run Command to pull the exact ECR tag, replace the running container and verify /health.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 309.40 Tm (Phase D - ECS Fargate) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 294.40 Tm (Create an ECS cluster, task definition and service. Change deployment from docker run to a new task-definition) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 281.52 Tm (revision and rolling service update.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 263.65 Tm (Phase E - Rollback) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 248.65 Tm (Retain the previous known-good image or task revision and automatically restore it when the smoke test fails.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 230.77 Tm (Required deliverables) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 210.77 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 210.77 Tm (Jenkinsfile stored in Git, Dockerfile, Nginx health endpoint and image-tagging convention.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 196.19 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 196.19 Tm (Separate Jenkins and application EC2 IAM roles with least-privilege permissions.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 181.60 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 181.60 Tm (ECR repository with image scanning and lifecycle cleanup.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 167.02 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 167.02 Tm (Direct EC2 deployment script plus an ECS Fargate task definition and service update flow.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 152.44 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 152.44 Tm (Architecture diagram, setup guide, rollback runbook and pipeline screenshots.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 129.85 Tm (Definition of success) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 109.85 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 109.85 Tm (A commit to the deployment branch starts the pipeline without manual server login.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 95.27 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 95.27 Tm (Every build uses an immutable tag containing build number and commit SHA.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 80.68 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 80.68 Tm (A failed validation or image scan stops before deployment.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (5) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 18 0 R >>
+endobj
+18 0 obj
+<< /Length 3370 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 01 / CI/CD) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 785.00 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 785.00 Tm (The target health endpoint returns HTTP 200 after deployment.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 770.42 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 770.42 Tm (The previous release can be restored and the action is visible in Jenkins logs.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 747.83 Tm (Failure test) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 674.43 499.28 53.40 re B
+0.780 0.490 0.100 rg
+48.00 674.43 4.00 53.40 re f
+BT 0.780 0.490 0.100 rg /F2 7.20 Tf 1 0 0 1 64.00 709.83 Tm (PROVE RECOVERY, NOT ONLY DEPLOYMENT) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 693.83 Tm (Publish an intentionally broken Nginx configuration or health endpoint. Confirm that the pipeline detects the) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 681.63 Tm (failure, reports useful logs and restores the previous version.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 662.43 Tm (Portfolio evidence) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 642.43 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 642.43 Tm (Jenkins stage view and console output with sensitive values hidden.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 627.85 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 627.85 Tm (ECR repository showing immutable commit-based tags.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 613.26 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 613.26 Tm (Before-and-after application version, SSM command result and ECS service revision.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 598.68 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 598.68 Tm (Short incident note describing the rollback test and recovery time.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 576.10 Tm (Security and cost guardrails) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 556.10 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 556.10 Tm (Never expose Jenkins port 8080 to the whole internet; use a restricted security group and later HTTPS.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 541.51 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 541.51 Tm (Do not keep SSH private keys or permanent AWS keys in Jenkins.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 526.93 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 526.93 Tm (Use separate Jenkins and workload roles; Docker access on Jenkins is effectively privileged.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 512.34 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 512.34 Tm (Stop or destroy practice EC2 and Fargate resources when not in use.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (6) Tj ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 20 0 R >>
+endobj
+20 0 obj
+<< /Length 6430 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 02 / TERRAFORM) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (PROJECT 02 - INTERMEDIATE) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (Production Infrastructure with) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 736.00 Tm (Terraform) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 698.00 m 120.00 698.00 l S
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 680.00 Tm (Replace manually created infrastructure with repeatable, reviewable Terraform. Build a reusable) Tj ET
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 665.05 Tm (AWS foundation for later ECS, monitoring, security and disaster-recovery projects.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 596.90 499.28 41.20 re B
+0.130 0.530 0.360 rg
+48.00 596.90 4.00 41.20 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 64.00 620.10 Tm (ARCHITECTURE FLOW) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 604.10 Tm (GitHub PR  ->  Terraform checks  ->  S3 remote state  ->  AWS provider  ->  VPC + ALB + ECS) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 548.90 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 548.90 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 566.90 Tm (Primary outcome) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 567.90 Tm (A clean AWS environment can be created, changed and destroyed predictably from version-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 556.90 Tm (controlled Terraform.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 512.90 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 512.90 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 530.90 Tm (Prerequisites) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 531.90 Tm (Project 1, Terraform CLI, AWS networking basics and an understanding of state and IAM) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 520.90 Tm (roles.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 482.90 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 482.90 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 494.90 Tm (Key services) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 495.90 Tm (VPC, ALB, ECS, ECR, IAM, S3, CloudTrail) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 452.90 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 452.90 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 464.90 Tm (Repository) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 465.90 Tm (02-terraform-production-infrastructure) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 440.90 Tm (Implementation phases) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 420.90 Tm (Bootstrap) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 405.90 Tm (Create a dedicated encrypted and versioned S3 state bucket. Enable native S3 locking with use_lockfile=true and) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 393.03 Tm (restrict access to pipeline and break-glass roles.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 375.15 Tm (Network modules) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 360.15 Tm (Create a multi-AZ VPC, public and private subnets, routes, security groups and carefully chosen egress) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 347.28 Tm (connectivity.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 329.40 Tm (Workload modules) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 314.40 Tm (Create ECR, ALB, target groups, ECS cluster, task definition, service, IAM task roles and log groups.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 296.52 Tm (Environment isolation) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 281.52 Tm (Use separate state and configurations for development, staging and production. Avoid relying on workspaces as the) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 268.65 Tm (only production boundary.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 250.77 Tm (Quality gates) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 235.77 Tm (Run fmt, validate, TFLint, security scanning and plan in pull requests. Require approval before production apply.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 217.90 Tm (Required deliverables) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 197.90 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 197.90 Tm (Bootstrap configuration for the state bucket and access policy.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 183.31 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 183.31 Tm (Reusable modules for network, security, ECR, ALB and ECS.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 168.73 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 168.73 Tm (Environment-specific root configurations with variables and outputs.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 154.14 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 154.14 Tm (Automated fmt, validate, lint, security and plan checks.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 139.56 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 139.56 Tm (Dependency diagram, module documentation, cost notes and teardown guide.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 116.98 Tm (Definition of success) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 96.98 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 96.98 Tm (A new environment can be created from an empty account without console-created dependencies.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 82.39 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 82.39 Tm (A second concurrent apply is blocked by state locking.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (7) Tj ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 22 0 R >>
+endobj
+22 0 obj
+<< /Length 3631 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 02 / TERRAFORM) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 785.00 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 785.00 Tm (Plans contain no unexpected replacement or destructive operations.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 770.42 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 770.42 Tm (terraform destroy removes project resources without touching shared state infrastructure.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 755.83 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 755.83 Tm (No credentials, secrets or state files exist in Git history.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 733.25 Tm (Failure test) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 659.85 499.28 53.40 re B
+0.780 0.490 0.100 rg
+48.00 659.85 4.00 53.40 re f
+BT 0.780 0.490 0.100 rg /F2 7.20 Tf 1 0 0 1 64.00 695.25 Tm (PROVE RECOVERY, NOT ONLY DEPLOYMENT) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 679.25 Tm (Simulate a failed apply and state-lock contention. Recover safely without manually editing the state file,) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 667.05 Tm (then document the recovery procedure.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 647.85 Tm (Portfolio evidence) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 627.85 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 627.85 Tm (Module tree and generated plan summary from a pull request.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 613.26 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 613.26 Tm (AWS resource view showing consistent Project, Environment, Owner and ManagedBy tags.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 598.68 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 598.68 Tm (State bucket versioning, encryption and lockfile configuration.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 584.10 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 584.10 Tm (A successful create-change-destroy lifecycle log.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 561.51 Tm (Security and cost guardrails) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 541.51 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 541.51 Tm (Never commit terraform.tfstate, .terraform directories, secret variable files or plan files containing) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 528.93 Tm (secrets.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 514.34 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 514.34 Tm (Pin Terraform and provider versions and commit the dependency lock file.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 499.76 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 499.76 Tm (Use least-privilege pipeline roles and short-lived credentials.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 485.18 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 485.18 Tm (NAT Gateways, ALBs and continuously running tasks incur cost; document and automate teardown.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (8) Tj ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 24 0 R >>
+endobj
+24 0 obj
+<< /Length 6286 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 03 / PROGRESSIVE DELIVERY) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (PROJECT 03 - INTERMEDIATE TO ADVANCED) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (Enterprise Blue/Green and Canary) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 736.00 Tm (Deployment) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 698.00 m 120.00 698.00 l S
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 680.00 Tm (Deploy a new ECS service revision beside the stable revision, validate it, shift production) Tj ET
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 665.05 Tm (traffic safely and roll back automatically when health or business alarms fail.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 584.70 499.28 53.40 re B
+0.130 0.530 0.360 rg
+48.00 584.70 4.00 53.40 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 64.00 620.10 Tm (ARCHITECTURE FLOW) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 604.10 Tm (Pipeline  ->  ECS service revision  ->  Green tasks  ->  ALB weighted target groups  ->  CloudWatch alarms  ->) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 591.90 Tm (Rollback) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 536.70 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 536.70 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 554.70 Tm (Primary outcome) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 555.70 Tm (Near-zero-downtime releases with controlled traffic shifting, validation hooks, bake) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 544.70 Tm (time and automatic rollback.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 500.70 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 500.70 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 518.70 Tm (Prerequisites) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 519.70 Tm (Projects 1 and 2, plus baseline alarms from Project 4 implemented before production-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 508.70 Tm (style traffic shifting.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 470.70 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 470.70 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 482.70 Tm (Key services) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 483.70 Tm (ECS Fargate, ALB, CloudWatch, Lambda hooks, SNS, ECR) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 440.70 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 440.70 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 452.70 Tm (Repository) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 453.70 Tm (03-ecs-progressive-deployment) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 428.70 Tm (Implementation phases) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 408.70 Tm (ECS-native baseline) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 393.70 Tm (Use the ECS deployment controller and BLUE_GREEN strategy. ECS-native blue/green, canary and linear strategies are) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 380.83 Tm (the preferred greenfield path in 2026.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 362.95 Tm (Traffic and health) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 347.95 Tm (Configure production and optional test listeners, target groups, container health checks, ALB health checks and a) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 335.08 Tm (deployment bake period.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 317.20 Tm (Validation hooks) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 302.20 Tm (Run automated smoke tests against green before production traffic, then validate again during and after traffic) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 289.32 Tm (shifting.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 271.45 Tm (Alarm rollback) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 256.45 Tm (Attach latency, 5xx and healthy-target alarms. A breached alarm must pause or fail the deployment and return) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 243.57 Tm (traffic to blue.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 225.70 Tm (Optional legacy comparison) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 210.70 Tm (Implement CodeDeploy once only as a comparison lab if desired; document why ECS-native is simpler for a new 2026) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 197.82 Tm (design.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 179.94 Tm (Required deliverables) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 159.94 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 159.94 Tm (Terraform for ALB listeners, target groups, ECS deployment strategy, alarms and IAM roles.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 145.36 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 145.36 Tm (Green smoke-test hook and deployment status notification.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 130.78 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 130.78 Tm (Blue/green, canary or linear traffic-shift configuration with a documented bake time.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 116.19 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 116.19 Tm (Automatic rollback demonstration and operational runbook.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 101.61 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 101.61 Tm (Sequence diagram showing preparation, test, shift, bake and cleanup phases.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (9) Tj ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 26 0 R >>
+endobj
+26 0 obj
+<< /Length 3995 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 03 / PROGRESSIVE DELIVERY) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 785.00 Tm (Definition of success) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 765.00 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 765.00 Tm (Blue remains available while green starts and validates.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 750.42 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 750.42 Tm (Production traffic moves according to the selected strategy without visible downtime.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 735.83 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 735.83 Tm (A breached alarm automatically returns traffic to the stable revision.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 721.25 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 721.25 Tm (The failed revision and alarm reason are visible in deployment events.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 706.66 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 706.66 Tm (Old tasks are removed only after the configured bake time.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 684.08 Tm (Failure test) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 610.68 499.28 53.40 re B
+0.780 0.490 0.100 rg
+48.00 610.68 4.00 53.40 re f
+BT 0.780 0.490 0.100 rg /F2 7.20 Tf 1 0 0 1 64.00 646.08 Tm (PROVE RECOVERY, NOT ONLY DEPLOYMENT) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 630.08 Tm (Deploy a version that returns HTTP 500 on a controlled endpoint. Send canary traffic, trigger the 5xx alarm) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 617.88 Tm (and capture proof that ECS rolls back to blue.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 598.68 Tm (Portfolio evidence) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 578.68 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 578.68 Tm (ALB target-group and ECS deployment timelines.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 564.10 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 564.10 Tm (CloudWatch alarm transition and rollback event.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 549.51 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 549.51 Tm (Traffic-shift visualization plus successful requests during the deployment.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 534.93 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 534.93 Tm (Comparison note: ECS-native versus CodeDeploy responsibilities.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 512.34 Tm (Security and cost guardrails) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 492.34 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 492.34 Tm (Blue and green run together temporarily, so deployments can roughly double compute usage during bake time.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 477.76 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 477.76 Tm (Use alarms based on customer symptoms, not only CPU.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 463.18 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 463.18 Tm (Do not terminate blue immediately; preserve a deliberate rollback window.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 448.59 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 448.59 Tm (Keep lifecycle hooks idempotent and time-bounded.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (10) Tj ET
+endstream
+endobj
+27 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 28 0 R >>
+endobj
+28 0 obj
+<< /Length 6761 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 04 / OBSERVABILITY) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (PROJECT 04 - INTERMEDIATE) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (Monitoring and Observability Platform) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 728.00 m 120.00 728.00 l S
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 710.00 Tm (Create useful operational visibility across EC2, ECS and the application using structured logs,) Tj ET
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 695.05 Tm (metrics, alarms, dashboards, notifications and documented response procedures.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 614.70 499.28 53.40 re B
+0.130 0.530 0.360 rg
+48.00 614.70 4.00 53.40 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 64.00 650.10 Tm (ARCHITECTURE FLOW) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 634.10 Tm (Application + infrastructure  ->  Logs / metrics / traces  ->  CloudWatch  ->  Alarms + dashboard  ->  SNS) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 621.90 Tm (notification  ->  Runbook) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 566.70 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 566.70 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 584.70 Tm (Primary outcome) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 585.70 Tm (An operator can detect, understand and respond to a failure using dashboards and alerts) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 574.70 Tm (rather than logging into servers blindly.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 530.70 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 530.70 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 548.70 Tm (Prerequisites) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 549.70 Tm (Project 1 workload, basic CloudWatch understanding and an email endpoint for controlled) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 538.70 Tm (SNS testing.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 494.70 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 494.70 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 512.70 Tm (Key services) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 513.70 Tm (CloudWatch Logs, CloudWatch Metrics, CloudWatch Agent, Container Insights, SNS, X-Ray /) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 502.70 Tm (OpenTelemetry) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 464.70 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 464.70 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 476.70 Tm (Repository) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 477.70 Tm (04-aws-observability-platform) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 452.70 Tm (Implementation phases) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 432.70 Tm (Signal design) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 417.70 Tm (Define user-facing indicators: availability, latency, error rate and request volume. Establish initial service-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 404.83 Tm (level objectives and alert thresholds.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 386.95 Tm (Logs) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 371.95 Tm (Send structured application and access logs to CloudWatch with retention, correlation IDs and filters for errors.) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 359.08 Tm (Never log secrets or health data.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 341.20 Tm (Metrics) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 326.20 Tm (Collect EC2 memory and disk metrics with CloudWatch Agent, ECS service metrics, ALB metrics and selected custom) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 313.32 Tm (business metrics.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 295.45 Tm (Dashboards and alarms) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 280.45 Tm (Build one operational dashboard and actionable alarms for ALB 5xx, latency, healthy targets, ECS task health and) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 267.57 Tm (deployment failure.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 249.70 Tm (Tracing and runbooks) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 234.70 Tm (Add OpenTelemetry or X-Ray when a backend exists. Link each alarm to a concise diagnosis and recovery runbook.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 216.82 Tm (Required deliverables) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 196.82 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 196.82 Tm (CloudWatch Agent configuration for EC2 and log configuration for ECS tasks.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 182.24 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 182.24 Tm (CloudWatch dashboard provisioned through Terraform.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 167.65 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 167.65 Tm (SNS topic, subscriptions and alarms with severity and ownership labels.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 153.07 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 153.07 Tm (Log retention policy, metric filters and optional distributed tracing.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 138.48 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 138.48 Tm (SLO document, alarm runbooks and an observability architecture diagram.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 115.90 Tm (Definition of success) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 95.90 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 95.90 Tm (A real failure triggers the intended alarm and notification within the documented detection time.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 81.32 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 81.32 Tm (The dashboard shows traffic, errors, latency and resource health together.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (11) Tj ET
+endstream
+endobj
+29 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 30 0 R >>
+endobj
+30 0 obj
+<< /Length 3548 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 04 / OBSERVABILITY) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 785.00 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 785.00 Tm (Logs identify the affected release and request without revealing sensitive data.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 770.42 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 770.42 Tm (An operator can follow the linked runbook to identify and mitigate the issue.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 755.83 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 755.83 Tm (Log retention and high-cardinality metric costs are controlled.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 733.25 Tm (Failure test) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 659.85 499.28 53.40 re B
+0.780 0.490 0.100 rg
+48.00 659.85 4.00 53.40 re f
+BT 0.780 0.490 0.100 rg /F2 7.20 Tf 1 0 0 1 64.00 695.25 Tm (PROVE RECOVERY, NOT ONLY DEPLOYMENT) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 679.25 Tm (Stop a task or generate controlled HTTP 500 responses. Measure detection time, notification time and recovery) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 667.05 Tm (time, then improve any noisy or missing signals.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 647.85 Tm (Portfolio evidence) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 627.85 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 627.85 Tm (Dashboard screenshot during normal operation and during the incident.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 613.26 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 613.26 Tm (Alarm history, SNS delivery and related log query.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 598.68 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 598.68 Tm (A short incident timeline with detection and recovery measurements.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 584.10 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 584.10 Tm (Runbook excerpt showing the exact decision path.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 561.51 Tm (Security and cost guardrails) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 541.51 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 541.51 Tm (Alert on symptoms users feel; avoid creating alarms for every available metric.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 526.93 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 526.93 Tm (Set log retention explicitly and avoid unbounded debug logging.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 512.34 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 512.34 Tm (Redact tokens, credentials and personal or health-related information.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 497.76 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 497.76 Tm (CloudWatch custom metrics, high-volume logs and tracing can become expensive; sample and retain deliberately.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (12) Tj ET
+endstream
+endobj
+31 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 32 0 R >>
+endobj
+32 0 obj
+<< /Length 6460 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 05 / DISASTER RECOVERY) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (PROJECT 05 - ADVANCED) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (Automated Disaster Recovery and) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 736.00 Tm (Recovery Testing) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 698.00 m 120.00 698.00 l S
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 680.00 Tm (Design recovery around business targets, automate backups and replication, then prove) Tj ET
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 665.05 Tm (recoverability through scheduled restore tests and documented game days.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 584.70 499.28 53.40 re B
+0.130 0.530 0.360 rg
+48.00 584.70 4.00 53.40 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 64.00 620.10 Tm (ARCHITECTURE FLOW) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 604.10 Tm (Primary region  ->  AWS Backup + snapshots  ->  Cross-region copies  ->  Recovery Terraform  ->  Restore test) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 591.90 Tm (->  DNS cutover) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 536.70 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 536.70 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 554.70 Tm (Primary outcome) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 555.70 Tm (The platform can recover data and service in a measured time that satisfies documented) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 544.70 Tm (RPO and RTO objectives.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 500.70 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 500.70 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 518.70 Tm (Prerequisites) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 519.70 Tm (Terraform foundation, a small stateful backend with synthetic data, monitoring and a) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 508.70 Tm (clear understanding of application dependencies.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 470.70 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 470.70 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 482.70 Tm (Key services) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 483.70 Tm (AWS Backup, EBS, RDS, S3 Replication, KMS, Route 53, EventBridge) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 440.70 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 440.70 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 452.70 Tm (Repository) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 453.70 Tm (05-aws-disaster-recovery) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 428.70 Tm (Implementation phases) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 408.70 Tm (Business targets) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 393.70 Tm (Define recovery point objective, recovery time objective, dependency map and backup ownership before choosing) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 380.83 Tm (technology.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 362.95 Tm (Protection) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 347.95 Tm (Configure EBS snapshots, RDS automated backups and point-in-time recovery, S3 versioning and cross-region) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 335.08 Tm (replication, plus cross-region KMS permissions.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 317.20 Tm (Recovery environment) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 302.20 Tm (Use Terraform provider aliases and separate state to create the minimum viable recovery infrastructure in a second) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 289.32 Tm (region.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 271.45 Tm (Automated verification) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 256.45 Tm (Schedule restore jobs into isolated infrastructure, validate data and application health, capture results and) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 243.57 Tm (destroy temporary resources.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 225.70 Tm (Game day) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 210.70 Tm (Simulate regional or data-loss scenarios, execute the runbook, measure actual RPO/RTO and record improvements.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 192.82 Tm (Required deliverables) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 172.82 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 172.82 Tm (Recovery strategy document with RPO, RTO, scope and assumptions.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 158.24 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 158.24 Tm (AWS Backup vault, plans, retention, encryption and cross-region copy rules.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 143.65 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 143.65 Tm (RDS restore and S3 replication validation automation.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 129.07 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 129.07 Tm (Terraform recovery-region configuration and optional Route 53 failover record.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 114.48 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 114.48 Tm (Game-day report with actual recovery measurements and corrective actions.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 91.90 Tm (Definition of success) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 71.90 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 71.90 Tm (Backups complete and failed backup jobs generate alerts.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (13) Tj ET
+endstream
+endobj
+33 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 34 0 R >>
+endobj
+34 0 obj
+<< /Length 3815 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 05 / DISASTER RECOVERY) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 785.00 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 785.00 Tm (A randomly selected recovery point can be restored and validated automatically.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 770.42 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 770.42 Tm (Cross-region replicated objects remain encrypted and readable by the intended role.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 755.83 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 755.83 Tm (Measured recovery meets the declared RPO and RTO or produces a concrete improvement plan.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 741.25 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 741.25 Tm (Recovery tests cannot overwrite production data.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 718.66 Tm (Failure test) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 645.26 499.28 53.40 re B
+0.780 0.490 0.100 rg
+48.00 645.26 4.00 53.40 re f
+BT 0.780 0.490 0.100 rg /F2 7.20 Tf 1 0 0 1 64.00 680.66 Tm (PROVE RECOVERY, NOT ONLY DEPLOYMENT) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 664.66 Tm (Delete or corrupt synthetic application data, restore from a selected recovery point and verify integrity.) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 652.46 Tm (Later simulate loss of the primary region without changing real production DNS.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 633.26 Tm (Portfolio evidence) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 613.26 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 613.26 Tm (Backup job history, restore job and validation output.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 598.68 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 598.68 Tm (Primary and recovery-region architecture diagram.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 584.10 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 584.10 Tm (RPO/RTO scorecard with measured rather than assumed values.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 569.51 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 569.51 Tm (Game-day timeline, decisions, gaps and follow-up actions.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 546.93 Tm (Security and cost guardrails) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 526.93 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 526.93 Tm (Backups are not disaster recovery until restore is tested.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 512.34 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 512.34 Tm (Use synthetic data; do not place real medical or personal information in the portfolio environment.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 497.76 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 497.76 Tm (Protect backup vaults from the same credentials used for ordinary workload administration.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 483.18 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 483.18 Tm (Cross-region storage, standby resources and data transfer add ongoing cost; start with backup-and-restore.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (14) Tj ET
+endstream
+endobj
+35 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 36 0 R >>
+endobj
+36 0 obj
+<< /Length 6262 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 06 / SECURITY AUTOMATION) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (PROJECT 06 - ADVANCED) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (Cloud Security Detection and Safe) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 736.00 Tm (Remediation) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 698.00 m 120.00 698.00 l S
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 680.00 Tm (Establish preventive, detective and responsive controls using AWS security services,) Tj ET
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 665.05 Tm (infrastructure-as-code scanning and carefully constrained automated remediation.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 584.70 499.28 53.40 re B
+0.130 0.530 0.360 rg
+48.00 584.70 4.00 53.40 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 64.00 620.10 Tm (ARCHITECTURE FLOW) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 604.10 Tm (AWS resources  ->  Config + Security Hub + GuardDuty  ->  EventBridge  ->  Lambda remediation  ->  SNS + audit) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 591.90 Tm (logs) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 536.70 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 536.70 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 554.70 Tm (Primary outcome) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 555.70 Tm (Misconfigurations and threats are detected centrally, prioritized and remediated safely) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 544.70 Tm (with a complete audit trail.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 500.70 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 500.70 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 518.70 Tm (Prerequisites) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 519.70 Tm (Terraform, IAM, CloudTrail, EventBridge and Lambda fundamentals plus a separate non-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 508.70 Tm (production testing environment.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 464.70 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 464.70 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 482.70 Tm (Key services) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 483.70 Tm (AWS Config, Security Hub, GuardDuty, Inspector, IAM Access Analyzer, Lambda,) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 472.70 Tm (EventBridge, CloudTrail) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 434.70 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 434.70 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 446.70 Tm (Repository) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 447.70 Tm (06-aws-security-automation) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 422.70 Tm (Implementation phases) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 402.70 Tm (Foundations) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 387.70 Tm (Enable CloudTrail, secure log storage, IAM Access Analyzer and essential account-level security settings. Document) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 374.83 Tm (ownership and escalation.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 356.95 Tm (Detection) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 341.95 Tm (Aggregate findings from Security Hub, GuardDuty, Inspector and Config with severity, resource context and) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 329.08 Tm (deduplication.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 311.20 Tm (Shift-left controls) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 296.20 Tm (Scan containers, dependencies, secrets and Terraform in pull requests. Block critical issues before deployment.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 278.32 Tm (Safe remediation) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 263.32 Tm (Start with reversible actions such as adding required tags, disabling public access or quarantining a security) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 250.45 Tm (group. Require approval for destructive actions.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 232.57 Tm (Validation) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 217.57 Tm (Generate controlled findings or non-compliant resources and verify detection, notification, remediation and audit) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 204.70 Tm (evidence.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 186.82 Tm (Required deliverables) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 166.82 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 166.82 Tm (Security services and Config rules provisioned by Terraform.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 152.24 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 152.24 Tm (EventBridge routing, SNS notifications and idempotent remediation Lambda functions.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 137.65 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 137.65 Tm (CI security gates for IaC, images, dependencies and accidental secrets.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 123.07 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 123.07 Tm (Finding triage matrix with severity, owner, SLA and response action.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 108.48 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 108.48 Tm (Threat model, remediation safety policy and test report.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (15) Tj ET
+endstream
+endobj
+37 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 38 0 R >>
+endobj
+38 0 obj
+<< /Length 4287 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 06 / SECURITY AUTOMATION) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 785.00 Tm (Definition of success) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 765.00 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 765.00 Tm (A controlled misconfiguration creates a finding with correct resource context.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 750.42 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 750.42 Tm (Critical findings notify the correct destination and lower-severity noise is filtered.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 735.83 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 735.83 Tm (Automatic remediation is reversible, idempotent and limited by tags or account scope.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 721.25 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 721.25 Tm (Every change records the finding, decision, Lambda execution and resulting resource state.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 706.66 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 706.66 Tm (The pipeline rejects a deliberately vulnerable container or unsafe Terraform change.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 684.08 Tm (Failure test) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 610.68 499.28 53.40 re B
+0.780 0.490 0.100 rg
+48.00 610.68 4.00 53.40 re f
+BT 0.780 0.490 0.100 rg /F2 7.20 Tf 1 0 0 1 64.00 646.08 Tm (PROVE RECOVERY, NOT ONLY DEPLOYMENT) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 630.08 Tm (Create a temporary public S3 bucket or overly broad security group in a sandbox. Verify detection and safe) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 617.88 Tm (quarantine, then test that protected resources cannot be modified by the remediation role.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 598.68 Tm (Portfolio evidence) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 578.68 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 578.68 Tm (Security Hub or Config finding before and after remediation.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 564.10 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 564.10 Tm (EventBridge event, Lambda log and CloudTrail audit record.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 549.51 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 549.51 Tm (CI failure caused by an intentionally unsafe IaC change.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 534.93 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 534.93 Tm (Threat model showing preventive, detective and responsive controls.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 512.34 Tm (Security and cost guardrails) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 492.34 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 492.34 Tm (Do not begin by automatically deleting resources; quarantine or notify first.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 477.76 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 477.76 Tm (Use a tightly scoped remediation role and explicit resource tags.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 463.18 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 463.18 Tm (Security Hub, GuardDuty, Inspector and Config generate ongoing charges; scope the lab and disable unused) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 450.59 Tm (controls afterward.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 436.01 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 436.01 Tm (Never publish real account IDs, secrets, findings containing sensitive data or unredacted screenshots.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (16) Tj ET
+endstream
+endobj
+39 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 40 0 R >>
+endobj
+40 0 obj
+<< /Length 6696 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 07 / EVENT-DRIVEN) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (PROJECT 07 - INTERMEDIATE) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (Event-Driven Serverless Automation) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 728.00 m 120.00 728.00 l S
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 710.00 Tm (Process uploaded objects asynchronously and reliably. Turn an S3 event into validated metadata in) Tj ET
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 695.05 Tm (DynamoDB, user notification through SNS and searchable operational logs.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 626.90 499.28 41.20 re B
+0.130 0.530 0.360 rg
+48.00 626.90 4.00 41.20 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 64.00 650.10 Tm (ARCHITECTURE FLOW) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 634.10 Tm (S3 upload  ->  EventBridge / S3 event  ->  Lambda  ->  DynamoDB  ->  SNS  ->  CloudWatch Logs + DLQ) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 578.90 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 578.90 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 596.90 Tm (Primary outcome) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 597.90 Tm (A resilient, idempotent event-processing workflow that handles retries, duplicates and) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 586.90 Tm (failures without losing work.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 548.90 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 548.90 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 560.90 Tm (Prerequisites) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 561.90 Tm (Python or JavaScript basics, IAM, Lambda, S3 events and DynamoDB fundamentals.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 518.90 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 518.90 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 530.90 Tm (Key services) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 531.90 Tm (S3, EventBridge, Lambda, DynamoDB, SNS, SQS DLQ, CloudWatch) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 488.90 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 488.90 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 500.90 Tm (Repository) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 501.90 Tm (07-event-driven-aws-automation) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 476.90 Tm (Implementation phases) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 456.90 Tm (Event contract) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 441.90 Tm (Define the object naming, metadata, supported content types, event schema and expected processing result.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 424.03 Tm (Processing) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 409.03 Tm (Validate the object, calculate metadata or perform a harmless transformation, then write an idempotent result to) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 396.15 Tm (DynamoDB.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 378.28 Tm (Reliability) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 363.28 Tm (Handle duplicate delivery, partial failure, retries and poison events. Add a dead-letter queue or failure) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 350.40 Tm (destination.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 332.52 Tm (Notification) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 317.52 Tm (Publish a success or failure event through SNS without exposing sensitive object content.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 299.65 Tm (Operations) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 284.65 Tm (Create logs, metrics, alarms, tracing and a replay procedure for failed events.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 266.77 Tm (Required deliverables) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 246.77 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 246.77 Tm (Terraform for buckets, event routing, functions, table, topic, DLQ and least-privilege roles.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 232.19 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 232.19 Tm (Versioned Lambda code with unit tests and structured logging.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 217.60 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 217.60 Tm (Idempotency key and DynamoDB conditional-write strategy.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 203.02 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 203.02 Tm (Failure alarm, DLQ replay script and operational runbook.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 188.44 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 188.44 Tm (Event schema and sequence diagram.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 165.85 Tm (Definition of success) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 145.85 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 145.85 Tm (One valid upload creates exactly one logical DynamoDB result even when the event is delivered twice.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 131.27 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 131.27 Tm (Unsupported files fail safely and produce an observable event.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 116.68 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 116.68 Tm (Retries do not create duplicate notifications or records.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 102.10 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 102.10 Tm (A poisoned event reaches the DLQ and can be replayed after correction.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 87.52 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 87.52 Tm (All resources are deployed and removed through Terraform.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (17) Tj ET
+endstream
+endobj
+41 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 42 0 R >>
+endobj
+42 0 obj
+<< /Length 2813 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 07 / EVENT-DRIVEN) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 785.00 Tm (Failure test) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 711.60 499.28 53.40 re B
+0.780 0.490 0.100 rg
+48.00 711.60 4.00 53.40 re f
+BT 0.780 0.490 0.100 rg /F2 7.20 Tf 1 0 0 1 64.00 747.00 Tm (PROVE RECOVERY, NOT ONLY DEPLOYMENT) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 731.00 Tm (Upload a malformed file and deliberately fail the Lambda. Observe retries and DLQ delivery, fix the handler) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 718.80 Tm (and replay the message successfully.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 699.60 Tm (Portfolio evidence) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 679.60 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 679.60 Tm (Sequence diagram and sample sanitized event payload.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 665.02 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 665.02 Tm (DynamoDB record, SNS notification and correlated CloudWatch log.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 650.43 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 650.43 Tm (Duplicate-delivery test proving idempotency.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 635.85 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 635.85 Tm (DLQ replay demonstration and failure alarm.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 613.26 Tm (Security and cost guardrails) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 593.26 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 593.26 Tm (Validate object type and size; never trust uploaded content.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 578.68 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 578.68 Tm (Restrict Lambda access to the exact bucket prefix, table and topic.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 564.10 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 564.10 Tm (Avoid recursive S3 triggers by separating input and output prefixes or buckets.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 549.51 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 549.51 Tm (Set retention and concurrency controls to prevent runaway cost.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (18) Tj ET
+endstream
+endobj
+43 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 44 0 R >>
+endobj
+44 0 obj
+<< /Length 6650 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 08 / EKS) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (PROJECT 08 - ADVANCED) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (Kubernetes Application Platform on) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 736.00 Tm (Amazon EKS) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 698.00 m 120.00 698.00 l S
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 680.00 Tm (Deploy WellSpring and a small backend on managed Kubernetes with scalable workloads, ingress,) Tj ET
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 665.05 Tm (secure workload identity, observability and controlled upgrades.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 596.90 499.28 41.20 re B
+0.130 0.530 0.360 rg
+48.00 596.90 4.00 41.20 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 64.00 620.10 Tm (ARCHITECTURE FLOW) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 604.10 Tm (GitHub + ECR  ->  EKS control plane  ->  Managed nodes  ->  Deployment + Service  ->  ALB Ingress  ->  Users) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 548.90 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 548.90 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 566.90 Tm (Primary outcome) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 567.90 Tm (A production-style Kubernetes workload that scales, survives pod failure and exposes) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 556.90 Tm (traffic through an AWS-managed load balancer.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 512.90 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 512.90 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 530.90 Tm (Prerequisites) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 531.90 Tm (Containers, Terraform, networking, IAM, ECS experience and practical Kubernetes) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 520.90 Tm (fundamentals.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 482.90 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 482.90 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 494.90 Tm (Key services) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 495.90 Tm (EKS, EC2 managed nodes, ECR, ALB, CloudWatch, IAM Pod Identity) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 452.90 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 452.90 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 464.90 Tm (Repository) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 465.90 Tm (08-amazon-eks-platform) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 440.90 Tm (Implementation phases) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 420.90 Tm (Cluster foundation) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 405.90 Tm (Provision VPC, EKS control plane, managed node group, security groups, encryption and access entries with) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 393.03 Tm (Terraform.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 375.15 Tm (Workload) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 360.15 Tm (Create namespace, Deployment, Service, ConfigMap, Secret integration, resource requests, limits and health probes.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 342.28 Tm (Ingress) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 327.28 Tm (Install AWS Load Balancer Controller with workload identity and expose the application through an ALB Ingress.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 309.40 Tm (Scaling and resilience) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 294.40 Tm (Install metrics support, configure HPA and PodDisruptionBudget, then evaluate Cluster Autoscaler or Karpenter.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 276.52 Tm (Operations) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 261.52 Tm (Collect container logs and metrics, scan images, test node and pod failures and document cluster upgrades.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 243.65 Tm (Required deliverables) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 223.65 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 223.65 Tm (Terraform modules for EKS, nodes, IAM and network dependencies.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 209.06 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 209.06 Tm (Kubernetes manifests or Helm chart for the application.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 194.48 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 194.48 Tm (AWS Load Balancer Controller, ingress, TLS plan and DNS design.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 179.90 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 179.90 Tm (HPA, resource policy, disruption budget and workload identity configuration.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 165.31 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 165.31 Tm (Cluster operations, upgrade, troubleshooting and teardown runbooks.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 142.73 Tm (Definition of success) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 122.73 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 122.73 Tm (The application remains available when a pod is deleted.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 108.14 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 108.14 Tm (HPA increases replicas during a controlled load test and scales down afterward.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 93.56 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 93.56 Tm (Pods access AWS only through a scoped workload role, not node credentials.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 78.98 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 78.98 Tm (Ingress health checks and Kubernetes probes agree on workload health.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (19) Tj ET
+endstream
+endobj
+45 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 46 0 R >>
+endobj
+46 0 obj
+<< /Length 3081 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 08 / EKS) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 785.00 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 785.00 Tm (The entire cluster and supporting resources can be reproduced through code.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 762.42 Tm (Failure test) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 689.02 499.28 53.40 re B
+0.780 0.490 0.100 rg
+48.00 689.02 4.00 53.40 re f
+BT 0.780 0.490 0.100 rg /F2 7.20 Tf 1 0 0 1 64.00 724.42 Tm (PROVE RECOVERY, NOT ONLY DEPLOYMENT) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 708.42 Tm (Delete a pod, drain a node and generate load. Demonstrate rescheduling, disruption-budget behavior, scaling) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 696.22 Tm (and the alarms produced by the event.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 677.02 Tm (Portfolio evidence) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 657.02 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 657.02 Tm (Cluster and workload architecture diagram.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 642.43 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 642.43 Tm (kubectl output showing rollout, HPA and pod distribution.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 627.85 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 627.85 Tm (ALB target health and application response.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 613.26 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 613.26 Tm (Failure-test timeline and recovery observations.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 590.68 Tm (Security and cost guardrails) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 570.68 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 570.68 Tm (EKS has a recurring control-plane cost plus nodes and load balancers; destroy lab clusters promptly.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 556.10 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 556.10 Tm (Do not expose the Kubernetes API publicly without narrow CIDR restrictions.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 541.51 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 541.51 Tm (Use workload identity and least privilege; do not give application pods the node role.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 526.93 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 526.93 Tm (Set requests and limits before testing HPA, or scaling behavior will be misleading.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (20) Tj ET
+endstream
+endobj
+47 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 48 0 R >>
+endobj
+48 0 obj
+<< /Length 6591 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 09 / GITOPS) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (PROJECT 09 - ADVANCED) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (GitOps and Infrastructure Delivery) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 728.00 m 120.00 728.00 l S
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 710.00 Tm (Separate infrastructure delivery from application reconciliation: GitHub Actions uses OIDC to plan) Tj ET
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 695.05 Tm (and apply Terraform, while Argo CD or Flux continuously reconciles Kubernetes desired state from) Tj ET
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 680.10 Tm (Git.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 599.76 499.28 53.40 re B
+0.130 0.530 0.360 rg
+48.00 599.76 4.00 53.40 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 64.00 635.16 Tm (ARCHITECTURE FLOW) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 619.16 Tm (Pull request  ->  GitHub Actions + OIDC  ->  Terraform -> AWS  ->  GitOps repository  ->  Argo CD  ->  EKS) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 606.96 Tm (reconciliation) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 551.76 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 551.76 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 569.76 Tm (Primary outcome) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 570.76 Tm (Git becomes the audited source of truth for both infrastructure changes and Kubernetes) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 559.76 Tm (application state, with controlled promotion and drift visibility.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 515.76 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 515.76 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 533.76 Tm (Prerequisites) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 534.76 Tm (Projects 2 and 8, GitHub Actions, IAM OIDC federation, Helm or Kustomize and Kubernetes) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 523.76 Tm (operations.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 485.76 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 485.76 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 497.76 Tm (Key services) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 498.76 Tm (GitHub Actions, IAM OIDC, Terraform, EKS, Argo CD / Flux, CloudTrail) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 455.76 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 455.76 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 467.76 Tm (Repository) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 468.76 Tm (09-gitops-aws-platform plus a separate environment-config repository) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 443.76 Tm (Implementation phases) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 423.76 Tm (Infrastructure CI) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 408.76 Tm (On pull requests, run Terraform format, validate, lint, security checks and plan. Store plan evidence and require) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 395.88 Tm (review.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 378.00 Tm (Secure apply) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 363.00 Tm (Use GitHub OIDC to assume short-lived AWS roles. Apply only from protected environments with approval; never store) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 350.13 Tm (long-lived AWS keys.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 332.25 Tm (GitOps controller) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 317.25 Tm (Install Argo CD or Flux on EKS and point it at an environment repository containing Helm values or Kustomize) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 304.38 Tm (overlays.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 286.50 Tm (Promotion) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 271.50 Tm (Promote immutable image tags through dev, staging and production by pull request. The controller pulls and) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 258.62 Tm (reconciles the approved state.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 240.75 Tm (Drift and recovery) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 225.75 Tm (Demonstrate self-healing after a manual Kubernetes change, controlled rollback through Git revert and clear) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 212.87 Tm (handling of infrastructure drift.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 195.00 Tm (Required deliverables) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 175.00 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 175.00 Tm (GitHub Actions workflows for Terraform plan, approval and apply using OIDC.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 160.41 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 160.41 Tm (Restricted OIDC trust policy tied to the repository, branch and environment.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 145.83 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 145.83 Tm (Argo CD or Flux installation and application definitions.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 131.24 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 131.24 Tm (Separate application-source and environment-config responsibilities.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 116.66 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 116.66 Tm (Promotion, rollback, drift and emergency-change runbooks.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 94.08 Tm (Definition of success) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 74.08 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 74.08 Tm (No long-lived AWS credentials exist in GitHub secrets.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (21) Tj ET
+endstream
+endobj
+49 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 50 0 R >>
+endobj
+50 0 obj
+<< /Length 3803 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 09 / GITOPS) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 785.00 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 785.00 Tm (Production Terraform apply requires an approved protected environment.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 770.42 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 770.42 Tm (A Git change updates the cluster and reports synchronization health.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 755.83 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 755.83 Tm (A manual Kubernetes drift is detected and either reverted or explicitly accepted.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 741.25 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 741.25 Tm (A Git revert restores the previous application version.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 718.66 Tm (Failure test) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 645.26 499.28 53.40 re B
+0.780 0.490 0.100 rg
+48.00 645.26 4.00 53.40 re f
+BT 0.780 0.490 0.100 rg /F2 7.20 Tf 1 0 0 1 64.00 680.66 Tm (PROVE RECOVERY, NOT ONLY DEPLOYMENT) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 664.66 Tm (Manually change a managed Deployment in the cluster. Show the controller detecting and correcting drift, then) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 652.46 Tm (perform a bad Git promotion and recover through a reviewed revert.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 633.26 Tm (Portfolio evidence) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 613.26 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 613.26 Tm (Pull-request plan and protected-environment approval.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 598.68 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 598.68 Tm (OIDC role session visible in CloudTrail.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 584.10 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 584.10 Tm (Argo CD or Flux synchronization and health history.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 569.51 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 569.51 Tm (Drift correction and Git-based rollback timeline.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 546.93 Tm (Security and cost guardrails) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 526.93 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 526.93 Tm (GitHub Actions plus Terraform is infrastructure CI/CD; the pull-based controller provides the true GitOps) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 514.34 Tm (reconciliation loop.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 499.76 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 499.76 Tm (Restrict OIDC trust by repository, branch or environment claims.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 485.18 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 485.18 Tm (Never allow unreviewed pull requests to apply production infrastructure.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 470.59 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 470.59 Tm (Protect the environment repository because changing it changes production behavior.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (22) Tj ET
+endstream
+endobj
+51 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 52 0 R >>
+endobj
+52 0 obj
+<< /Length 7012 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 10 / CAPSTONE) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (PROJECT 10 - CAPSTONE) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (Complete Enterprise Cloud Platform) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 728.00 m 120.00 728.00 l S
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 710.00 Tm (Combine the strongest patterns from all prior projects into one coherent, multi-environment) Tj ET
+BT 0.340 0.430 0.400 rg /F1 10.10 Tf 1 0 0 1 48.00 695.05 Tm (platform that can deploy, scale, observe, secure and recover a realistic application.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 626.90 499.28 41.20 re B
+0.130 0.530 0.360 rg
+48.00 626.90 4.00 41.20 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 64.00 650.10 Tm (ARCHITECTURE FLOW) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 634.10 Tm (GitHub  ->  CI + IaC  ->  VPC / ALB  ->  ECS services  ->  RDS + S3  ->  Observability + security + DR) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 578.90 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 578.90 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 596.90 Tm (Primary outcome) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 597.90 Tm (A defensible production-style platform with architecture decisions, automated delivery,) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 586.90 Tm (operational evidence and measured resilience.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 542.90 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 542.90 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 560.90 Tm (Prerequisites) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 561.90 Tm (Projects 1 through 9, plus a small WellSpring backend API and PostgreSQL schema using) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 550.90 Tm (synthetic demonstration data only.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 512.90 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 512.90 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 524.90 Tm (Key services) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 525.90 Tm (VPC, ALB, ECS Fargate, RDS, S3, Lambda, CloudWatch, SNS, IAM, Auto Scaling, AWS Backup) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 482.90 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 482.90 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 494.90 Tm (Repository) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 495.90 Tm (10-enterprise-cloud-platform) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 470.90 Tm (Implementation phases) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 450.90 Tm (Platform foundation) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 435.90 Tm (Create multi-environment network, identity, state, DNS, certificates, encryption, tagging and account-level) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 423.03 Tm (guardrails through Terraform.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 405.15 Tm (Application architecture) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 390.15 Tm (Run frontend and backend containers on ECS Fargate behind ALB, store application data in private RDS and objects) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 377.28 Tm (in S3, and keep secrets outside images.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 359.40 Tm (Delivery and scaling) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 344.40 Tm (Build immutable artifacts, promote through environments, use ECS-native progressive deployment and configure) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 331.52 Tm (service and database capacity deliberately.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 313.65 Tm (Operations and security) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 298.65 Tm (Integrate dashboards, alarms, tracing, centralized findings, image and IaC gates, runbooks and incident) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 285.77 Tm (notifications.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 267.90 Tm (Reliability and evidence) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 252.90 Tm (Automate backups and recovery tests, perform load, security, deployment and disaster game days, then complete a) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.70 Tf 1 0 0 1 48.00 240.02 Tm (Well-Architected review.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 222.14 Tm (Required deliverables) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 202.14 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 202.14 Tm (Complete Terraform platform with separate environment state and reusable modules.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 187.56 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 187.56 Tm (Application CI/CD and progressive deployment with health-based rollback.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 172.98 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 172.98 Tm (Multi-AZ architecture, RDS backups, S3 protection and recovery procedure.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 158.39 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 158.39 Tm (Dashboards, SLOs, alarms, security findings and operational runbooks.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 143.81 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 143.81 Tm (Executive architecture document, threat model, cost model and Well-Architected assessment.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 121.22 Tm (Definition of success) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 101.22 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 101.22 Tm (A new environment can be created and an application release deployed without manual server configuration.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 86.64 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 86.64 Tm (The platform handles a measured load target and scales within defined limits.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 72.06 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 72.06 Tm (A bad release rolls back automatically while the stable version remains available.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (23) Tj ET
+endstream
+endobj
+53 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 54 0 R >>
+endobj
+54 0 obj
+<< /Length 3495 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (PROJECT 10 / CAPSTONE) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 785.00 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 785.00 Tm (A security or availability incident is detected, notified and handled through a tested runbook.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 770.42 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 770.42 Tm (A recovery test restores service and data within measured RPO/RTO targets.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 747.83 Tm (Failure test) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 674.43 499.28 53.40 re B
+0.780 0.490 0.100 rg
+48.00 674.43 4.00 53.40 re f
+BT 0.780 0.490 0.100 rg /F2 7.20 Tf 1 0 0 1 64.00 709.83 Tm (PROVE RECOVERY, NOT ONLY DEPLOYMENT) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 693.83 Tm (Run a full game day: deploy a faulty backend version, terminate tasks, generate load and restore synthetic) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 681.63 Tm (data. Capture detection, rollback, scaling and recovery evidence in one incident report.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 662.43 Tm (Portfolio evidence) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 642.43 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 642.43 Tm (Executive and detailed architecture diagrams with trust and network boundaries.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 627.85 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 627.85 Tm (Successful pipeline, deployment, scaling, rollback and recovery timelines.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 613.26 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 613.26 Tm (Well-Architected findings and prioritized improvement backlog.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 598.68 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 598.68 Tm (Short demonstration video and a recruiter-friendly project summary.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 576.10 Tm (Security and cost guardrails) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 556.10 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 556.10 Tm (Do not claim the portfolio healthcare application is HIPAA compliant; use synthetic data only.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 541.51 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 541.51 Tm (Use multiple Availability Zones, private data stores, encryption and temporary credentials.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 526.93 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 526.93 Tm (Set an AWS Budget, tag all resources and provide automated teardown for demonstration environments.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 512.34 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 512.34 Tm (Enterprise quality means measured operations and recovery, not merely a long list of services.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (24) Tj ET
+endstream
+endobj
+55 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 56 0 R >>
+endobj
+56 0 obj
+<< /Length 5832 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (MISSION PLAYBOOK) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (REPEATABLE PROCESS) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (Execution rhythm for every project) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 728.00 m 120.00 728.00 l S
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 710.00 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 710.00 Tm (1. Define the user or operational problem and a measurable success condition.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 695.42 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 695.42 Tm (2. Draw the initial architecture and identify network, trust and data boundaries.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 680.83 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 680.83 Tm (3. Estimate cost, create budget alerts and decide how resources will be destroyed.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 666.25 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 666.25 Tm (4. Build the smallest working version manually only when learning a service for the first time.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 651.66 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 651.66 Tm (5. Codify the final infrastructure and configuration; avoid undocumented console dependencies.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 637.08 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 637.08 Tm (6. Add pipeline quality gates, immutable releases and short-lived credentials.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 622.50 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 622.50 Tm (7. Add observability before declaring deployment complete.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 607.91 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 607.91 Tm (8. Break the system intentionally and prove rollback or recovery.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 593.33 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 593.33 Tm (9. Capture sanitized evidence and write the incident or learning note.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 578.74 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 578.74 Tm (10. Destroy temporary infrastructure and verify that no costly orphaned resources remain.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 556.16 Tm (Review scorecard) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 500.16 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 500.16 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 518.16 Tm (Architecture) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 519.16 Tm (Can a reviewer understand components, boundaries, dependencies and traffic flow in under) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 508.16 Tm (two minutes?) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 470.16 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 470.16 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 482.16 Tm (Automation) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 483.16 Tm (Can the environment and release be reproduced without hidden manual steps?) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 440.16 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 440.16 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 452.16 Tm (Security) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 453.16 Tm (Are credentials temporary, IAM scoped, secrets protected and findings handled safely?) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 410.16 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 410.16 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 422.16 Tm (Reliability) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 423.16 Tm (Are health, rollback, backup and recovery behaviors tested rather than assumed?) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 380.16 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 380.16 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 392.16 Tm (Operations) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 393.16 Tm (Are logs, metrics, alarms, ownership and runbooks useful during a real failure?) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 350.16 112.00 30.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 350.16 387.28 30.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 362.16 Tm (Cost) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 363.16 Tm (Are expensive resources identified, tagged, monitored and automatically cleaned up?) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 314.16 112.00 36.00 re B
+1.000 1.000 1.000 rg
+0.790 0.860 0.830 RG
+0.7 w
+160.00 314.16 387.28 36.00 re B
+BT 0.055 0.160 0.135 rg /F2 7.80 Tf 1 0 0 1 58.00 332.16 Tm (Evidence) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 333.16 Tm (Does the repository prove the claims with diagrams, tests, logs and concise) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.20 Tf 1 0 0 1 171.00 322.16 Tm (explanations?) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (25) Tj ET
+endstream
+endobj
+57 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 58 0 R >>
+endobj
+58 0 obj
+<< /Length 4160 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (MISSION PLAYBOOK) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (DAY-ZERO CHECKLIST) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (AWS account safety before Project 1) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 728.00 m 120.00 728.00 l S
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 710.00 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 710.00 Tm (Protect the root user with MFA and do not use it for daily work.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 695.42 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 695.42 Tm (Use IAM Identity Center or an administrative role for human access.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 680.83 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 680.83 Tm (Create an AWS Budget and billing alerts before launching persistent services.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 666.25 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 666.25 Tm (Enable CloudTrail and review account contact and recovery information.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 651.66 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 651.66 Tm (Choose one primary learning region and use it consistently unless testing disaster recovery.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 637.08 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 637.08 Tm (Adopt tags: Project, Environment, Owner, ManagedBy and ExpiresAt.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 622.50 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 622.50 Tm (Use synthetic demonstration data only, especially for the WellSpring healthcare-themed application.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 607.91 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 607.91 Tm (Create a written teardown checklist for ALB, NAT Gateway, RDS, ECS, EKS and cross-region resources.) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 531.93 499.28 53.40 re B
+0.130 0.530 0.360 rg
+48.00 531.93 4.00 53.40 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 64.00 567.33 Tm (PORTFOLIO PRINCIPLE) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 551.33 Tm (Enterprise quality is not the number of AWS icons in a diagram. It is the ability to explain trade-offs,) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 539.13 Tm (operate the system during failure and show evidence that recovery works.) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 519.93 Tm (Suggested architecture artifacts) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 499.93 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 499.93 Tm (Context diagram: users, external systems and the platform boundary.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 485.34 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 485.34 Tm (Container or service diagram: application components and service dependencies.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 470.76 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 470.76 Tm (Deployment diagram: AWS accounts, regions, VPCs, subnets, load balancers and compute.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 456.18 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 456.18 Tm (Sequence diagram: build, deployment, event processing, rollback or recovery timeline.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 8.80 Tf 1 0 0 1 48.00 441.59 Tm (-) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.80 Tf 1 0 0 1 64.00 441.59 Tm (Threat model: trust boundaries, sensitive assets, likely threats and mitigations.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (26) Tj ET
+endstream
+endobj
+59 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R /F4 6 0 R >> >> /Contents 60 0 R >>
+endobj
+60 0 obj
+<< /Length 4086 >>
+stream
+0.920 0.970 0.950 rg
+0 0 595.28 841.89 re f
+1.000 1.000 1.000 rg
+20 24 555.28 793.89 re f
+0.130 0.530 0.360 rg
+20 811.89 555.28 6 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 793.89 Tm (REFERENCES) Tj ET
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 48.00 785.00 Tm (CURRENT GUIDANCE) Tj ET
+BT 0.055 0.160 0.135 rg /F2 24.00 Tf 1 0 0 1 48.00 766.00 Tm (Reference baseline) Tj ET
+0.130 0.530 0.360 RG 3.00 w 48.00 728.00 m 120.00 728.00 l S
+BT 0.340 0.430 0.400 rg /F1 9.30 Tf 1 0 0 1 48.00 710.00 Tm (These sources anchor the roadmap's modern design choices. Service documentation should be rechecked when) Tj ET
+BT 0.340 0.430 0.400 rg /F1 9.30 Tf 1 0 0 1 48.00 696.24 Tm (each project starts because AWS and tooling continue to evolve.) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 674.47 Tm (AWS Well-Architected Framework) Tj ET
+BT 0.340 0.430 0.400 rg /F3 7.60 Tf 1 0 0 1 48.00 659.47 Tm (https://docs.aws.amazon.com/wellarchitected/latest/framework/definitions.html) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 642.22 Tm (Amazon ECS blue/green deployments) Tj ET
+BT 0.340 0.430 0.400 rg /F3 7.60 Tf 1 0 0 1 48.00 627.22 Tm (https://docs.aws.amazon.com/AmazonECS/latest/developerguide/deployment-type-blue-green.html) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 609.98 Tm (Amazon ECS canary deployments) Tj ET
+BT 0.340 0.430 0.400 rg /F3 7.60 Tf 1 0 0 1 48.00 594.98 Tm (https://docs.aws.amazon.com/AmazonECS/latest/developerguide/canary-deployment.html) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 577.73 Tm (AWS guidance: ECS-native versus CodeDeploy) Tj ET
+BT 0.340 0.430 0.400 rg /F3 7.60 Tf 1 0 0 1 48.00 562.73 Tm (https://aws.amazon.com/blogs/devops/choosing-between-amazon-ecs-blue-green-native-or-aws-codedeploy-in-aws-cdk/) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 545.48 Tm (Terraform on AWS backend best practices) Tj ET
+BT 0.340 0.430 0.400 rg /F3 7.60 Tf 1 0 0 1 48.00 530.48 Tm (https://docs.aws.amazon.com/prescriptive-guidance/latest/terraform-aws-provider-best-practices/backend.html) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 513.23 Tm (Terraform S3 backend and native lockfile) Tj ET
+BT 0.340 0.430 0.400 rg /F3 7.60 Tf 1 0 0 1 48.00 498.23 Tm (https://developer.hashicorp.com/terraform/language/backend/s3) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 480.98 Tm (AWS IAM OIDC federation) Tj ET
+BT 0.340 0.430 0.400 rg /F3 7.60 Tf 1 0 0 1 48.00 465.98 Tm (https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles_providers_oidc.html) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 448.74 Tm (Jenkins Pipeline and Jenkinsfile) Tj ET
+BT 0.340 0.430 0.400 rg /F3 7.60 Tf 1 0 0 1 48.00 433.74 Tm (https://www.jenkins.io/doc/book/pipeline/jenkinsfile/) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 416.49 Tm (Amazon ECR image lifecycle) Tj ET
+BT 0.340 0.430 0.400 rg /F3 7.60 Tf 1 0 0 1 48.00 401.49 Tm (https://docs.aws.amazon.com/AmazonECR/latest/userguide/getting-started-cli.html) Tj ET
+BT 0.130 0.530 0.360 rg /F2 9.20 Tf 1 0 0 1 48.00 384.24 Tm (AWS Systems Manager Run Command) Tj ET
+BT 0.340 0.430 0.400 rg /F3 7.60 Tf 1 0 0 1 48.00 369.24 Tm (https://docs.aws.amazon.com/systems-manager/latest/userguide/run-command.html) Tj ET
+BT 0.055 0.160 0.135 rg /F2 12.20 Tf 1 0 0 1 48.00 351.99 Tm (Final note) Tj ET
+0.920 0.970 0.950 rg
+0.790 0.860 0.830 RG
+0.7 w
+48.00 278.59 499.28 53.40 re B
+0.130 0.530 0.360 rg
+48.00 278.59 4.00 53.40 re f
+BT 0.130 0.530 0.360 rg /F2 7.20 Tf 1 0 0 1 64.00 313.99 Tm (THE MISSION) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 297.99 Tm (Complete the projects one at a time. Prefer a small system that is reproducible, secure and tested under) Tj ET
+BT 0.055 0.105 0.090 rg /F1 8.50 Tf 1 0 0 1 64.00 285.79 Tm (failure over a large system assembled without operational proof.) Tj ET
+0.790 0.860 0.830 RG 0.55 w 48.00 40 m 547.28 40 l S
+BT 0.340 0.430 0.400 rg /F1 7 Tf 1 0 0 1 48.00 25 Tm (AWS Cloud and DevOps Portfolio Roadmap) Tj ET
+BT 0.340 0.430 0.400 rg /F2 7 Tf 1 0 0 1 529.28 25 Tm (27) Tj ET
+endstream
+endobj
+61 0 obj
+<< /Title (AWS Cloud and DevOps Portfolio Roadmap - Ten Production Projects) /Author (Soufiane) /Subject (Ten-project AWS Cloud and DevOps portfolio roadmap) /Creator (Codex PDF Builder) >>
+endobj
+xref
+0 62
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000303 00000 n 
+0000000373 00000 n 
+0000000448 00000 n 
+0000000516 00000 n 
+0000000594 00000 n 
+0000000756 00000 n 
+0000002232 00000 n 
+0000002395 00000 n 
+0000006822 00000 n 
+0000006986 00000 n 
+0000011875 00000 n 
+0000012039 00000 n 
+0000017007 00000 n 
+0000017171 00000 n 
+0000023942 00000 n 
+0000024106 00000 n 
+0000027528 00000 n 
+0000027692 00000 n 
+0000034174 00000 n 
+0000034338 00000 n 
+0000038021 00000 n 
+0000038185 00000 n 
+0000044523 00000 n 
+0000044687 00000 n 
+0000048734 00000 n 
+0000048898 00000 n 
+0000055711 00000 n 
+0000055875 00000 n 
+0000059475 00000 n 
+0000059639 00000 n 
+0000066151 00000 n 
+0000066315 00000 n 
+0000070182 00000 n 
+0000070346 00000 n 
+0000076660 00000 n 
+0000076824 00000 n 
+0000081163 00000 n 
+0000081327 00000 n 
+0000088075 00000 n 
+0000088239 00000 n 
+0000091104 00000 n 
+0000091268 00000 n 
+0000097970 00000 n 
+0000098134 00000 n 
+0000101267 00000 n 
+0000101431 00000 n 
+0000108074 00000 n 
+0000108238 00000 n 
+0000112093 00000 n 
+0000112257 00000 n 
+0000119321 00000 n 
+0000119485 00000 n 
+0000123032 00000 n 
+0000123196 00000 n 
+0000129080 00000 n 
+0000129244 00000 n 
+0000133456 00000 n 
+0000133620 00000 n 
+0000137758 00000 n 
+trailer
+<< /Size 62 /Root 1 0 R /Info 61 0 R >>
+startxref
+137964
+%%EOF
