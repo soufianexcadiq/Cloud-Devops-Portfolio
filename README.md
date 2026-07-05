@@ -14,7 +14,7 @@ Each project includes architecture diagrams, implementation details, screenshots
 
 | # | Project | Technologies | Status |
 |---|---------|--------------|--------|
-| 01 | [Jenkins ECR to EC2 CI/CD](./projects/01-jenkins-ec2-cicd/) | Jenkins, Docker, ECR, EC2, SSM | In progress |
+| 01 | [Jenkins ECR to EC2 CI/CD](./projects/01-jenkins-ec2-cicd/) | Jenkins, Docker, ECR, EC2, SSM | Completed ! |
 | 02 | Terraform Production Infrastructure | Terraform, VPC, ALB, ECS | Planned |
 | 03 | Blue/Green and Canary Deployment | ECS, ALB, CloudWatch | Planned |
 | 04 | Monitoring and Observability | CloudWatch, SNS, OpenTelemetry | Planned |
