@@ -1,5 +1,16 @@
-# Project 01: Jenkins ECR to EC2 CI/CD
+## Architecture
 
-Status: In progress
+```mermaid
+flowchart LR
+    Developer["Developer"] --> GitHub["GitHub Repository"]
+    GitHub --> Jenkins["Jenkins Server on EC2"]
 
-Detailed project documentation will be added during implementation.
+    subgraph AWS["AWS Cloud - us-east-1"]
+        Jenkins --> Build["Docker Build and Health Test"]
+        Build --> ECR["Amazon ECR"]
+        Jenkins --> SSM["AWS Systems Manager"]
+        SSM --> AppEC2["WellSpring Application EC2"]
+        ECR --> AppEC2
+    end
+
+    User["Application User"] --> AppEC2
